@@ -467,7 +467,7 @@ header {
 .formulario {
 	background-color: var(--primary2);
 	width: 80%;
-	max-width: 1300px;
+	max-width: 1000px;
 	margin: 0 auto;
 	padding: 50px 20px;
 	border-radius: 10px;
