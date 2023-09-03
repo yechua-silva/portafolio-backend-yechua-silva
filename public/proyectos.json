@@ -2,7 +2,7 @@
 	"proyectos": [
 		{
 			"nombre": "Administrador de Pacientes",
-			"img": "./logo/proyecto-apv.png",
+			"img": "../proyecto-apv.png",
 			"sitio": "https://mern-apv-yechua-silva.netlify.app/",
 			"tecnologias": [
 				" Javascript",
@@ -18,7 +18,7 @@
 		},
 		{
 			"nombre": "Todo con React",
-			"img": "./logo/proyecto-todo-react.png",
+			"img": "../proyecto-todo-react.png",
 			"sitio": "https://todo-react-yechua.netlify.app/",
 			"tecnologias": [" Javascript", " React", " Tailwind"],
 			"github": ["https://github.com/yechua-silva/Todo-React"],
@@ -26,7 +26,7 @@
 		},
 		{
 			"nombre": "Agencia de Viajes",
-			"img": "./logo/proyecto-agencia-viajes.png",
+			"img": "../proyecto-agencia-viajes.png",
 			"sitio": "https://agecia-viajes-node.onrender.com/",
 			"tecnologias": [
 				" Javascript",
