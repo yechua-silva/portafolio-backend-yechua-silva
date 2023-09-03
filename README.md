@@ -2,10 +2,9 @@
 
 Portafolio personal para mostrar proyectos en los que eh trabajado desde 0.
 
-- EL front esta hecho con HTML, CSS y JavaScript
-- EL back esta hecho con NodeJS y Express, para servir API
-
-Los proyectos y servicios se muestran a travez del consumo de la API
+- EL back esta hecho con NodeJS y Express, para servir API.
+- El back esta hecho para servir API de donde el front consume esta para la presentacion de proyectos y servicios
+- El back igualmete valida la informacion para el envio de email para el contacto
 
 ## Autor ✒️
 
