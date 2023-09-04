@@ -25,6 +25,33 @@
 			"descripcion": "Este proyecto de frontend con React, usa Tailwind para el estilizado y el diseño responsivo, tambien asi para el dark mode, igualmente se utiliza el localstorage para la persistencia de las tareas por parte del navegador. Se implemento igualmente drag and drop con la libreria @hello-pangea"
 		},
 		{
+			"nombre": "Cotizador con React",
+			"img": "../proyecto-cotizador-react.png",
+			"sitio": "https://cotizador-prestamos-react-yechua.netlify.app/",
+			"tecnologias": [" Javascript", " React", " Tailwind"],
+			"github": [
+				"https://github.com/yechua-silva/proyecto-cotizador-prestamos-react"
+			],
+			"descripcion": "El proyecto es un cotizador de préstamos desarrollado con React y Vite. Permite a los usuarios seleccionar un rango de préstamos desde 0 hasta 20000 USD, así como elegir la duración en meses, con opciones de 6, 12 y 24 meses. Con base en estos datos, el sistema calcula y muestra el total a pagar y el pago mensual correspondiente."
+		},
+		{
+			"nombre": "Portafolio Yechua Silva",
+			"img": "../proyecto-portafolio.png",
+			"sitio": "https://portafolio-yechua-silva.netlify.app/",
+			"tecnologias": [
+				" Javascript",
+				" React",
+				"HTML",
+				"CSS",
+				" NodeJS",
+				" Express"
+			],
+			"github": [
+				"https://github.com/yechua-silva/portafolio-frontend-yechua-silva"
+			],
+			"descripcion": "Proyecto que muestra todo mis demas proyectos, se divide en el front y el back, en donde el primero consume datos de una API hecha con el segundo para mostrar los proyectos y servicios de forma dinamica"
+		},
+		{
 			"nombre": "Agencia de Viajes",
 			"img": "../proyecto-agencia-viajes.png",
 			"sitio": "https://agecia-viajes-node.onrender.com/",
